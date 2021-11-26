@@ -7,4 +7,6 @@
 - `cd` server and run `npm i`
 - Then run `npm start` for both directories that is `\client` and `\server`
 
-![Screenshoot]
+## Screenshots
+
+[Drag and drop screenshot(s) here]
